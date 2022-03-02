@@ -1,5 +1,5 @@
 Hello, my name is Blake and I am currently learning about automated deployment of virtual machines in the cloud. 
-You can reach me at blakejfox@gmail.com
+You can reach me at blake@foxlabsolutions.com
 
 
 <!---
